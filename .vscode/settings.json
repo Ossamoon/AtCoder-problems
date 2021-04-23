@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "queue": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp"
     }
 }
