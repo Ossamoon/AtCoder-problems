@@ -7,7 +7,9 @@ using vv = vector<v>;
 using vvv = vector<vv>;
 
 int main(){
-    int ans = 0;
+    int N, W;
+    cin >> N >> W;
+    int ans = N / W;
     cout << ans << endl;
     return 0;
 }
