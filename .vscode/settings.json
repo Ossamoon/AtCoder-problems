@@ -18,7 +18,9 @@
         "__locale": "cpp",
         "__bit_reference": "cpp",
         "__string": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "memory": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
